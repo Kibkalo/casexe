@@ -1,0 +1,50 @@
+.zero {
+    background-color: #B2DFDB;
+    color: #004D40;
+    border: double #004D40 15px;
+}
+
+.twentyFive {
+    background-color: #4DB6AC;
+    color: #004D40;
+    border: double #004D40 15px;
+}
+
+.fifty {
+    background-color: #009688;
+    color: #B2DFDB;
+    border: double #B2DFDB 15px;
+}
+
+.seventyFive {
+    background-color: #00796B;
+    color: #B2DFDB;
+    border: double #B2DFDB 15px;
+}
+
+.hundred {
+    background-color: #004D40;
+    color: #B2DFDB;
+    border: double #B2DFDB 15px;
+}
+
+.blockFileLoad {
+    width: 150px;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    font-size: 32px;
+}
+
+.allInfo {
+    cursor: pointer;
+}
+
+.Neto {
+    font-weight: bold;
+    color: red;
+}
+
+.Ok {
+    font-weight: bold;
+    color: green;
+}

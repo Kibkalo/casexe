@@ -1,0 +1,40 @@
+.Zero {
+    background: #C5CAE9;
+}
+
+.Five {
+    background: #9FA8DA;
+}
+
+.Ten {
+    background: #7986CB;
+}
+
+.Fifteen {
+    background: #5C6BC0;
+}
+
+.Twenty {
+    background: #3F51B5;
+    color: #ffffff;
+}
+
+.TwentyFive {
+    background: #3949AB;
+    color: #ffffff;
+}
+
+.Thirty {
+    background: #303F9F;
+    color: #ffffff;
+}
+
+.ThirtyFive {
+    background: #283593;
+    color: #ffffff;
+}
+
+.Forty {
+    background: #1A237E;
+    color: #ffffff;
+}

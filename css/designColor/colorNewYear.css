@@ -1,0 +1,111 @@
+
+#nav li a:hover, 
+#nav li ul li a:hover  {
+    background: #539ddc;
+    color: #000000;
+}
+
+.focus{
+    background: #ff1012;
+    color: #000000;
+}
+
+.searchfield:focus{
+    color: #6495ED;
+}
+
+.btn:hover{
+    background-color: #6495ED;
+}
+
+.btnSave:hover{
+    background-color:#6495ED;
+    color: #000000;
+}
+
+.tab_color{
+    background-color: #6495ED;
+}
+
+.tab_color_new{
+    background-color: #E53935;
+    color: #ffffff;
+}
+
+.div_hid:hover{
+    background-color: #E57373;
+    cursor: pointer;
+}
+
+.div_btn:hover{
+    background-color: #E57373;
+    cursor: pointer;
+}
+
+.link_reports:hover{
+    font-weight: bold;
+    color: #E53935;
+    cursor: pointer;
+}
+
+.linkReports:link{
+	font-size: 14px;
+	font-weight: bold;
+	text-decoration: none;
+	color: #E53935;
+}
+.linkReports:hover, :visited{
+	text-decoration: underline;
+	color: #E53935;
+}
+
+.report_link{
+    text-decoration: underline;
+    color:#E53935;
+}
+
+.link_group a:hover {
+    color:#cc0000;
+}
+
+.lineTabs li.active a {
+    color:#cc0000;
+}
+
+.select:hover{
+    background-color: #539ddc;
+    color: #ffffff;
+}
+
+.select_p:hover{
+    cursor: pointer;
+    background-color: #539ddc;
+    color: #ffffff;
+}
+
+.tr_color{
+    background-color: #E53935;
+    color: #ffffff;
+}
+
+.l{
+    background-color: #E53935;
+    color: #ffffff;
+}
+.ll{
+    background-color: #E57373;
+}
+.lll{
+    background-color: #EF9A9A;
+}
+.llll{
+    background-color: #FFCDD2;
+}
+.lllll{
+    background-color: #FFEBEE;
+}
+
+.btn-1 {
+    background: #E53935;
+    color: #ffffff;
+}

@@ -1,0 +1,17 @@
+
+.new_phone {
+    background-color: #E6E6FA;
+}
+
+.repeat_phone {
+    background-color: #FF82AB;
+}
+
+.sortFocus {
+    cursor: pointer;
+}
+
+.sortFocus:hover {
+    color: #000000;
+    background: #C1CDCD;
+}

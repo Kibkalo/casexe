@@ -1,0 +1,147 @@
+
+#nav li a:hover, 
+#nav li ul li a:hover  {
+    background: #C1CDCD;
+    color: #000000;
+}
+
+.focus{
+    background: #3F51B5;
+    color: #000000;
+}
+
+.searchfield:focus{
+    color: #6495ED;
+}
+
+.btn:hover{
+    background-color: #a1d5ff;
+}
+
+.btnSave:hover{
+    background-color:#9FA8DA;
+    color: #000000;
+}
+
+.tab_color{
+    background-color: #B9D3EE;
+}
+
+.tab_color_new{
+    background-color: #3F51B5;
+    color: #ffffff;
+}
+
+.div_hid:hover{
+    background-color: #7986CB;
+    cursor: pointer;
+}
+
+.div_btn:hover{
+    background-color: #7986CB;
+    cursor: pointer;
+}
+
+.link_reports:hover{
+    font-weight: bold;
+    color: #3F51B5;
+    cursor: pointer;
+}
+
+.linkReports:link{
+	font-size: 14px;
+	font-weight: bold;
+	text-decoration: none;
+	color: #3F51B5;
+}
+.linkReports:hover, :visited{
+	text-decoration: underline;
+	color: #3F51B5;
+}
+
+.linkDetailing:link{
+    color: #000000;
+}
+.linkDetailing:hover, :visited{
+    color: #000000;
+}
+
+.report_link{
+    text-decoration: underline;
+    color:#3F51B5;
+}
+
+.link_group a:hover {
+    color:#cc0000;
+}
+
+.lineTabs li.active a {
+    color:#cc0000;
+}
+
+.select:hover{
+    background-color: #539ddc;
+    color: #ffffff;
+}
+
+.select_p:hover{
+    cursor: pointer;
+    background-color: #539ddc;
+    color: #ffffff;
+}
+
+.tr_color{
+    background-color: #3F51B5;
+    color: #ffffff;
+}
+
+.l{
+    background-color: #3F51B5;
+    color: #ffffff;
+}
+.ll{
+    background-color: #7986CB;
+}
+.lll{
+    background-color: #9FA8DA;
+}
+.llll{
+    background-color: #C5CAE9;
+}
+.lllll{
+    background-color: #E8EAF6;
+}
+.lllllll{
+    background-color: #ede7f6;
+}
+
+
+.btn-1 {
+    background: #3F51B5;
+    color: #ffffff;
+}
+
+.btn-activ-1 {
+    background: #211a5e;
+    color: #ffffff;
+}
+
+.alerts_info {
+    color: #3F51B5;
+    font-size: 15px;
+    font-weight: bold;
+}
+
+.alerts_error {
+    color: red;
+    font-size: 15px;
+    font-weight: bold;
+}
+
+.alerts_attention {
+    padding-left: 10px;
+    padding-top: 5px;
+    color: #0e83cd;
+    font-size: 15px;
+    font-weight: bold;
+}

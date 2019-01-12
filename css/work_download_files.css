@@ -1,0 +1,22 @@
+.head_text{
+    font-size: 14px;
+    font-weight: bold;
+    text-align: center;
+    background-color: #fff;
+    color: #3F51B5;
+}
+.btnSave{
+    border: 1px solid #000000;
+    background-color: #3F51B5;
+    color:#ffffff;
+    font-size: 14px;
+    padding: 10px;
+    padding-left: 100px;
+    padding-right: 100px;
+    margin-bottom: 10px;
+    margin-top: 10px;
+}
+.btnSave:hover{
+    background-color: #9FA8DA;
+    color: #000000;
+}

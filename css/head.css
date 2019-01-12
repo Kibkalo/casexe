@@ -1,0 +1,19 @@
+#header {
+    display: block;
+    position: fixed;
+    background: #fff;
+    overflow: hidden;
+    z-index: 1;
+}
+#header div {
+    display: table-cell;
+    border: 1px solid #ccc;
+    border-collapse: collapse;
+    font-weight: bold;
+}
+thead {
+    visibility: hidden;
+}
+td, th {
+    border-collapse: collapse;
+}

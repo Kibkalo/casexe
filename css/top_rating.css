@@ -1,0 +1,79 @@
+
+.rating_1 {
+    background-color: #4CAF50;
+}
+.rating_2 {
+    background-color: #66BB6A;
+}
+.rating_3 {
+    background-color: #81C784;
+}
+.rating_4 {
+    background-color: #E0E0E0;
+}
+.rating_5 {
+    background-color: #FFCDD2;
+}
+.rating_6 {
+    background-color: #EF9A9A;
+}
+.rating_7 {
+    background-color: #E57373;
+}
+
+.photo {
+    display: inline-block; /* Строчно-блочный элемент */
+    position: relative; /* Относительное позиционирование */
+}
+
+.photo:hover::after {
+    content: attr(data-title); /* Выводим текст */
+    position: absolute; /* Абсолютное позиционирование */
+    left: 10; right: 10; top: 10px; /* Положение подсказки */
+    z-index: 1; /* Отображаем подсказку поверх других элементов */
+    /* background: rgba(0,42,167,1); /* Полупрозрачный цвет фона */
+    background: #3F51B5;
+    color: #fff; /* Цвет текста */
+    text-align: center; /* Выравнивание текста по центру */
+    /*font-family: Arial, sans-serif; /* Гарнитура шрифта */
+    font-size: 14px; /* Размер текста подсказки */
+    font-weight: bold;
+    padding: 3px 10px; /* Поля */
+    border: 1px solid #333; /* Параметры рамки */
+}
+
+.photo_Statistics {
+    display: inline-block; /* Строчно-блочный элемент */
+    position: relative; /* Относительное позиционирование */
+}
+
+.photo_Statistics:hover::after {
+    content: attr(data-title); /* Выводим текст */
+    position: absolute; /* Абсолютное позиционирование */
+    left: 5; right: 5; top: 10px; /* Положение подсказки */
+    z-index: 1; /* Отображаем подсказку поверх других элементов */
+    background: rgba(0,42,167,1); /* Полупрозрачный цвет фона */
+    color: #fff; /* Цвет текста */
+    text-align: center; /* Выравнивание текста по центру */
+    font-family: Arial, sans-serif; /* Гарнитура шрифта */
+    font-size: 18px; /* Размер текста подсказки */
+    font-weight: bold;
+    padding: 10px 10px; /* Поля */
+    border: 1px solid #333; /* Параметры рамки */
+}
+
+.blockInfo {
+    width: 75px;
+    height: 25px;
+    text-align: center;
+    vertical-align: middle;
+    border: 1px solid #000000;
+}
+
+.blockInfoStatistics {
+    width: 75px;
+    height: 25px;
+    text-align: center;
+    vertical-align: middle;
+    border: 1px solid #000000;
+}
